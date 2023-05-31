@@ -1,0 +1,454 @@
+   
+
+
+
+body {
+background-image: url(Bilder/Amsterdam4.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+width: 100vw;
+min-height: 100vh;
+}
+.amster{
+    width: 1200px;
+    height: 300px;
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+.amster2 {
+    width: 1200px;
+    height: 300px;
+    margin-left: 130px;
+    margin-bottom: 40px;
+}
+.button1{
+    background-color: rgb(6, 151, 6);
+    margin-bottom: 60px;
+    padding: 15px;
+    margin-left: 100px;
+}
+.button2{
+    background-color: rgb(6, 151, 6);
+    margin-bottom: 60px;
+    padding: 15px;
+    margin-left: 60px;
+}
+.button3{
+    background-color: rgb(6, 151, 6);
+    margin-bottom: 60px;
+    padding: 15px;
+    margin-left: 60px;
+}
+.button4{
+    background-color: rgb(6, 151, 6);
+    margin-bottom: 60px;
+    padding: 15px;
+    margin-left: 60px;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline black;
+    border: 1px solid black;
+    background-color: rgba(11, 172, 11, 0.538);
+    font-family: 'Pangolin', cursive;
+} 
+.dick {
+    font-size: 60px;
+    margin-bottom: 60px;
+    
+}
+
+div {
+    border:  1px solid black;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
+h2 {
+text-align: center;
+text-decoration: underline black;
+background-color:rgba(11, 172, 11, 0.538); 
+}
+.essen1{
+    margin-bottom: 40px;
+}
+.div2 {
+    border:  1px solid black;
+    font-family: 'Pangolin', cursive;
+}
+
+.eins {
+    width: 400px;
+    height: 200px;
+
+    
+} 
+.one {
+    width: 400px;
+    
+    margin-left: 60px;
+    margin-bottom : 40px;
+    display: inline-block;  
+    
+}   
+
+.zwei{
+    width: 400px;
+    height: 200px;
+    
+    
+} 
+.two{
+   width: 400px;
+    margin-bottom: 40px;
+    margin-right: 70px;
+    float: right; 
+}
+    
+.drei {
+    width: 400px;
+    height: 200px;
+    
+}
+.three {
+    width: 400px;
+    float: left;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    
+}
+
+.div2{
+   
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    
+    display:inline-block;
+}
+.a1 {
+   color:antiquewhite; 
+   border: 1px solid black;
+   background-color: rgb(6, 6, 139);
+}
+.u{
+    text-decoration: underline ;
+}
+.a2
+{
+    color: antiquewhite;
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);
+
+}
+.u2{
+    text-decoration:underline ;
+}
+.div3 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top:10px;
+    
+    display:inline-block;
+}
+.u3{
+    text-decoration: underline;
+}
+.div4 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top:10px;
+    display:inline-block;
+}
+.a3{
+    color:antiquewhite; 
+   border: 1px solid black;
+   background-color: rgb(6, 6, 139);
+}
+.essen2{
+    margin-bottom: 40px;
+}
+.five{
+    width: 400px;
+    
+    margin-bottom: 60px;
+    float: left;
+    margin-left: 80px;
+    
+
+}
+
+.fünf {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px;
+    
+    
+    
+}
+.div5{
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;    
+       
+}
+.u4{
+    text-decoration: underline;
+}
+.a4{
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+}
+.six {
+    width: 400px;
+    
+    margin-bottom: 60px;
+    display: inline-block;
+    margin-left: 60px;
+}
+
+.sechs {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.div6 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;  
+     
+}
+.u5{
+    text-decoration: underline;
+}
+.sieben {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.a5 {
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+
+}.div7 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;  
+}
+.seven {
+    width: 400px;
+    margin-bottom: 40px;
+    float: right;
+    margin-right:70px ;
+}
+.a6 {
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+}
+.essen3{
+    margin-bottom: 40px;
+    
+}
+.div8 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;  
+
+}
+.u7 {
+    text-decoration: underline;
+}
+.acht{
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px
+}
+.eight {
+    width: 400px;
+    
+    margin-top: 40px;
+    float: left;
+    margin-left: 80px
+    
+}
+.a7{
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+}
+.nine{
+    width: 400px; 
+    margin-top: 40px;
+    display: inline-block;
+    margin-right: 10px;
+
+}
+.neun {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px
+}
+.div9 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;  
+
+}
+.a8{
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+}
+.u8{
+    text-decoration: underline;
+}
+.ten {
+    width: 400px; 
+    margin-top: 40px;
+    margin-right: 60px; 
+    float: right;
+}
+.zehn{
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px
+}
+.div10{
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;  
+
+}
+.u9 {
+    text-decoration: underline;
+}
+.a9 {
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+}
+.essen4 {
+    
+    margin-top: 40px;
+}
+.eleven{
+    width: 400px;  
+    margin-top: 40px;
+    float: left;
+    margin-left: 80px    
+}
+.elf {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px
+}
+.div11 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;  
+}
+.u10 {
+    text-decoration: underline;
+}
+.a10{
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+}
+.twelve{
+    width: 400px; 
+    margin-top: 40px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.zwölf{
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px 
+}
+.div12{
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;   
+}
+.u11{
+    text-decoration: underline;
+}
+.a11 {
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);  
+}
+.thirtteen{
+    width: 400px; 
+    margin-top: 40px;
+    margin-right: 60px; 
+    float: right;
+}
+.dreizehn {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px
+}
+.div13 {
+    border: 1px solid black; 
+    background-color: rgba(14, 162, 14, 0.751);
+    width: 400px;
+    height: 350px;
+    text-decoration:whitesmoke ;
+    margin-top: 10px;
+    display: inline-block;     
+}
+.u12 {
+    text-decoration: underline;
+}
+.a12 {
+    color:antiquewhite; 
+    border: 1px solid black;
+    background-color: rgb(6, 6, 139);
+}
+
+
